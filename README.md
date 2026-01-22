@@ -21,7 +21,7 @@ Google Form → Google Sheets → AI Analysis → Processed Leads Sheet → Auto
 - Zapier
 - Google Sheets
 - AI (GPT-based)
-- Email Automation
+ Email Automation
 
 ## Note
 
